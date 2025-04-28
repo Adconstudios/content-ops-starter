@@ -22,7 +22,7 @@
         },
         {
             "label": "Our Work",
-            "altText": "Blog",
+            "altText": "Our Work",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
